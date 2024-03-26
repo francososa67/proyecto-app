@@ -1,0 +1,9 @@
+Requerimientos Globales (12/03/2024)
+- Gestionar Pedidos
+- Gestionar Cobros
+- Gestionar Mesas
+- Gestionar Platos
+- Gestionar Reportes e Informes
+
+Requerimiento no funcional (13/03/2024)
+- El pago se puede realizar con distintas formas de pago al mismo tiempo (parte en efectivo y con tarjeta por ejemplo).
